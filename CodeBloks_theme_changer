@@ -64,7 +64,7 @@ GOTO :Start
 
 :ChangingTheme
 ECHO +++++++++++++++++++++++++++++++++++++++++++
-ECHO Configuration available on website:
+ECHO Configurations fot custom themes available on website
 ECHO http://wiki.codeblocks.org/index.php/Syntax_highlighting_custom_colour_themes
 ECHO +++++++++++++++++++++++++++++++++++++++++++
 SET /P filePath="Please, provide local path to text file with configuraton(type or "grag nad drop"):"
