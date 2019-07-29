@@ -108,7 +108,5 @@ ECHO -------------------------------------------
 PAUSE
 
 :Exit
-ECHO End...
-PING 127.0.0.1 -n 1 -w 200 > a
-DEL a /q
+ECHO End of script...
 EXIT
