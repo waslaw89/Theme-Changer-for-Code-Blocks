@@ -103,7 +103,7 @@ ECHO -------------------------------------------
 ECHO Run Code::Blocks again. 
 ECHO To see avaliable themes goto:
 ECHO "Settings->Editor...->Syntax highlighting"
-ECHO and a have good time with Code::Blocks! 
+ECHO and have a good time with Code::Blocks! 
 ECHO -------------------------------------------
 PAUSE
 
