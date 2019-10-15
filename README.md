@@ -1,6 +1,9 @@
 # Theme-Changer-for-Code-Blocks
-Theme Changer for Code::Blocks, simple text to create a .bat/.cmd file for Windows command line.
-Script give you an option to backup, change and restore configuration of code blocks themes
+Theme Changer for Code::Blocks, simple text to create a .bat/.cmd file for Windows CLI script.
+Script give you an option to:
+-backup current theme, 
+-change for custom(via config file),
+-restore theme configuration from backup.
 
 +++++++++++++++++++++++++++++++++++++++++++
 
